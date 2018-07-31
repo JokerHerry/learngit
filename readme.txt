@@ -1,3 +1,8 @@
-createing a new branch is quick.
+<<<<<<< HEAD
+icreateing a new branch is quick.
 
-我是 master 我在做修改。
+=======
+icreateing a new branch is quick.
+
+现在是 feature1 在进行修改
+>>>>>>> feature1
